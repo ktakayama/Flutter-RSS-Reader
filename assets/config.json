@@ -1,0 +1,15 @@
+{
+  "feeds": [
+    {
+      "shortName": "Digg",
+      "name": "Digg",
+      "url": "https://digg.com/rss/technology.rss"
+    },
+    {
+      "shortName": "HN",
+      "name": "Hacker News",
+      "url": "https://news.ycombinator.com/rss"
+    }
+  ]
+}
+
